@@ -1,4 +1,8 @@
 # E01a-Control-Structues
+For this assignment, I have updated all the questions in questions.txt.
+And I also updated my name in LICENSE.
+
+
 
 Let's start writing some Python code! This is the first set of exercises for MSCH-C220; they should give you the tools to build your first game.
 
